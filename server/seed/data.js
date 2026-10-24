@@ -32,6 +32,7 @@ const seed = async () => {
   // Seed Employees (with login info)
   const employeesData = [
     { name: "Siddharth Sarvaiya", email: "siddharth@gmail.com", password: "admin", role: "admin", phone: "9876543210", join_date: new Date("2022-05-15"), status: "active" },
+    { name: "Keyur Sarvaiya", email: "keyur@gmail.com", password: "123456", role: "admin", phone: "9876543211", join_date: new Date("2022-06-01"), status: "active" },
 
     { name: "Parth Variya", email: "parth@gmail.com", password: "123456", role: "employee", phone: "9123456780", department_id: departments[1]._id, designation: "Software Engineer", join_date: new Date("2023-01-10"), status: "active" },
     { name: "David Lee", email: "david.lee@gmail.com", password: "123456", role: "employee", phone: "9876501234", department_id: departments[4]._id, designation: "Sales Executive", join_date: new Date("2020-07-12"), status: "inactive" },

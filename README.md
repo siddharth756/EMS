@@ -72,9 +72,8 @@ EMS/
 ---
 
 ## Seed Accounts / Default Credentials
-- **Admin**:
-  - Email: `siddharth@gmail.com`
-  - Password: `admin`
-- **Employee**:
-  - Email: `parth@gmail.com`
-  - Password: `123456`
+- **Admin Accounts**:
+  - Email: `keyur@gmail.com` | Password: `123456`
+  - Email: `siddharth@gmail.com` | Password: `admin`
+- **Employee Account**:
+  - Email: `parth@gmail.com` | Password: `123456`
